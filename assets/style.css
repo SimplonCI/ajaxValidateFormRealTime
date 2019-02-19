@@ -1,0 +1,22 @@
+body{ 
+    font-family:arial,verdana,helvetic; 
+    font-size:12px;
+}
+label{ 
+    width:80px; 
+    font-weight:bold; 
+    display:block; 
+    margin-right:8px; 
+    padding-top:3px; 
+    float:left; 
+}
+
+.alert{
+    width: 200px;
+    height: 5em;
+    background: red;
+    color: white;
+    margin-bottom: 4px;
+    padding-top: 10px;
+    text-align: center;
+}
